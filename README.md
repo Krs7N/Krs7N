@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krs7n&label=Profile%20views&color=0e75b6&style=flat" alt="krs7n" /> </p>
 
-- 🌱 I’m currently learning **how to master to code on C#**
+- 🌱 I’m currently learning **how to master to code on C#** at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a>
 
-- 📝 I regularly try to connect with people and write blogs in my <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="blank">**LinkedIn**</a> Profile
+- 📝 I regularly try to connect with people and write blogs in my <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="_blank">**LinkedIn**</a> Profile
 
 - 👀 I’m interested in **coding, gaming and learning new things**
 
