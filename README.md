@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming and learning new things
 - 🌱 I’m currently learning how to code on C#
 - 💞️ I’m looking to collaborate on coding with people that are involved with C#
-- 📫 How to reach me - krstntank@gmail.com  /  twitter: @Krs7N
+- 📫 How to reach me - krstntank@gmail.com  /  twitter: @Krs7N / LinkedIn: Kristian Mladenov
 
 <!---
 Krs7N/Krs7N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
