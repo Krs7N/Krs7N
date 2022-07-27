@@ -32,7 +32,9 @@
 
 <p align="center"><a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=krs7n" alt="GitHub Trophies" /></a></p>
 
-<p style="line-height:3.5em;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krs7n&" alt="krs7n" /></p>
+<h3 align="left">GitHub Contributions and Streaks</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krs7n&" alt="GitHub Contributions and Streaks" /></p>
 
 <!---
 Krs7N/Krs7N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
