@@ -34,7 +34,7 @@
 
 <h3 align="left">GitHub Contributions and Streaks</h3>
 
-<p align="center"><a href="#"><img align="center" src="https://camo.githubusercontent.com/5f0acbe3e4c7b4c9b3126407cc310b5a62b4de3a41abcfdaf25e22548df508e3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b7273376e26" alt="GitHub Contributions and Streaks" data-canonical-src="" style="max width: 100%;" /></a></p>
+<p align="center"><a href="#"><img align="center" src="" alt="GitHub Contributions and Streaks" data-canonical-src="" style="max width: 100%;" /></a></p>
 
 <!---
 Krs7N/Krs7N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
