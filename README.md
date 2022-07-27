@@ -28,6 +28,8 @@
 
 <table><tr><th><a href="#"><img align="center" src="https://camo.githubusercontent.com/765c31289dcc8be9e6dbd0a35ca5380c430320193492f20987203151b752bfe8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b7273376e2673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krs7n&show_icons=true&locale=en&amp;include_all_commits=true&amp;hide_border=true" style="max-width: 100%;"></a></th><th><a href="#"><img align="center" src="https://camo.githubusercontent.com/8ae10be15146790535eaaa20b88fb27d8b4d5fae575220877752a3c563fcbe9a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b7273376e2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=krs7n&show_icons=true&locale=en&layout=compact&amp;hide_border=true" style="max-width: 100%;"></a></th></tr></table>
 
+<h3 align="left">GitHub Trophies</h3>
+
 <p align="center"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=krs7n" alt="krs7n" /></a></p>
 
 <p style="line-height:3.5em;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krs7n&" alt="krs7n" /></p>
