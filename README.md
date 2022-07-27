@@ -30,7 +30,7 @@
 
 <h3 align="left">GitHub Trophies</h3>
 
-<p align="center"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=krs7n" alt="krs7n" /></a></p>
+<p align="center"><a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=krs7n" alt="GitHub Trophies" /></a></p>
 
 <p style="line-height:3.5em;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krs7n&" alt="krs7n" /></p>
 
