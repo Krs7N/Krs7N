@@ -26,9 +26,9 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krs7n" alt="krs7n" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krs7n&show_icons=true&locale=en" alt="krs7n" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krs7n&show_icons=true&locale=en" alt="krs7n" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krs7n&" alt="krs7n" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krs7n&" alt="krs7n" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krs7n&show_icons=true&locale=en&layout=compact" alt="krs7n" /></p>
 
