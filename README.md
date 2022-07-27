@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kristian Mladenov
+- 👋 Hi, I’m Kristian Mladenov. I am 19 years old.
 - 👀 I’m interested in coding, gaming and learning new things
 - 🌱 I’m currently learning how to code on C#
 - 💞️ I’m looking to collaborate on coding with people that are involved with C#
