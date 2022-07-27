@@ -12,7 +12,7 @@
 
 - 📫 How to reach me - **krstntank@gmail.com / twitter: @Krs7N / LinkedIn: Kristian Mladenov**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/krs7n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krs7n" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristian mladenov" height="30" width="40" /></a>
@@ -21,8 +21,12 @@
 <a href="https://instagram.com/kristian__mladenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kristian__mladenov" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></p>
+
+<h3 align="left">GitHub Stats</h3>
+
+<tr><th><a href="#"><img align="center" src="https://camo.githubusercontent.com/765c31289dcc8be9e6dbd0a35ca5380c430320193492f20987203151b752bfe8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b7273376e2673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krs7n&show_icons=true&locale=en&amp;include_all_commits=true&amp;hide_border=true" style="max-width: 100%;"></a></th><th><a href="#"><img align="center" src="https://camo.githubusercontent.com/8ae10be15146790535eaaa20b88fb27d8b4d5fae575220877752a3c563fcbe9a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b7273376e2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=krs7n&show_icons=true&locale=en&layout=compact&amp;hide_border=true" style="max-width: 100%;"></a></th></tr>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krs7n" alt="krs7n" /></a></p>
 
