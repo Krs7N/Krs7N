@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **how to master coding with C#** at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a>
 
-- 📝 I regularly try to connect with people and write blogs in my <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="_blank">**LinkedIn**</a> Profile
+- 📝 I regularly try to connect with people and write posts in my <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="_blank">**LinkedIn**</a> Profile
 
 - 👀 I’m interested in **coding, gaming and learning new things**
 
