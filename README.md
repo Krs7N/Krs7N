@@ -1,14 +1,16 @@
 <h1 align="center">Hello there 👋, I'm Kristian Mladenov.</h1>
-<h2 align="center">I'm 20 years old</h2>
-<h3 align="center">A passionate learner in backend developing with C# from Bulgaria</h3>
+<h2 align="center">I'm 21 years old</h2>
+<h3 align="center">A passionate learner in full-stack developing with C# and Angular from Bulgaria</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krs7n&label=Profile%20views&color=0e75b6&style=flat" alt="krs7n" /> </p>
 
-- 🌱 I’m currently learning **how to master coding with C#** at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a>
+- ⌨️ **Junior Front-End Developer** working mainly with **Angular** at <a href="http://www.technologica.com/" target="_blank">**TechnoLogica**</a>
+
+- 🌱 I’m currently finishing my **path with C# courses** at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a>
 
 - 📝 I regularly try to connect with people and write posts in my <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="_blank">**LinkedIn**</a> Profile
 
-- 👀 I’m interested in **coding, gaming and learning new things**
+- 👀 I’m interested in **coding, learning new things and fitness**
 
 - 📫 How to reach me - **krstntank@gmail.com / twitter: @Krs7N / LinkedIn: Kristian Mladenov**
 
