@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krs7n&label=Profile%20views&color=0e75b6&style=flat" alt="krs7n" /> </p>
 
-- ⌨️ **Junior Front-End Developer** working mainly with **Angular** at <a href="http://www.technologica.com/" target="_blank">**TechnoLogica**</a>
+- ⌨️ **Junior Software Developer** working mainly with **Angular** at <a href="http://www.technologica.com/" target="_blank">**TechnoLogica**</a>
 
 - 🌱 I’m currently finishing my **path with C# courses** at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a>
 
