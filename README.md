@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/kristian.mladenov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kristian.mladenov" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Technologies, Languages and Tools</h3>
 <p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/></a></p>
 
 <h3 align="left">GitHub Stats</h3>
