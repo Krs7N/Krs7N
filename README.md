@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Kristian Mladenov.</h1>
-<h2 align="center">I'm 21 years old</h2>
+<h2 align="center">I'm 22 years old</h2>
 <h3 align="center">A passionate learner in full-stack software development with C# and Angular from Bulgaria</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krs7n&label=Profile%20views&color=0e75b6&style=flat" alt="krs7n" /> </p>
