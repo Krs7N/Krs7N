@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krs7n&label=Profile%20views&color=0e75b6&style=flat" alt="krs7n" /> </p>
 
-- ⌨️ **Junior Software Developer** at <a href="http://www.technologica.com/" target="_blank">**TechnoLogica**</a>
+- ⌨️ **Software Developer** at <a href="http://www.technologica.com/" target="_blank">**TechnoLogica**</a>
 
-- 🌱 I’m currently finishing my **path with C# courses** at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a>
+- 🌱 I am a graduate at <a href="https://softuni.bg/" target="_blank">**SoftUni**</a> with **C# and Angular**
 
 - 📝 I regularly try to connect with people and write posts in my <a href="https://www.linkedin.com/in/kristian-mladenov-5aaa6b246/" target="_blank">**LinkedIn**</a> Profile
 
